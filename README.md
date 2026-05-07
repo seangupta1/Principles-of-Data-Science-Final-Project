@@ -1,3 +1,7 @@
+**Please note that the `data_raw` folder, `data_clean` folder, and `model.pth` were too large (>25 MB) for uploading to GitHub. Use the following link to access the Google Drive folder that contains this data.**
+
+https://drive.google.com/drive/folders/1KtV8zYQEvpibHIZoKBVfaVbgfxDYHn9z?usp=share_link
+
 # Deep Fake Detection Project
 
 **Sean Gupta**  
